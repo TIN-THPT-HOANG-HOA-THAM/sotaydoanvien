@@ -1,0 +1,143 @@
+*{
+background-color:#c4e2f2;
+}
+
+.a{
+height:85%;
+display:flex;
+}
+
+header{
+background-color: #1e97d9;
+flex:1;
+}
+
+header p{
+background-color: #1e97d9;
+text-align:center;
+padding: 15px;
+}
+
+header a{
+background-color: #1e97d9;
+padding: 15px;
+text-decoration:none;
+text-align:center;
+color:#E5F6FF;
+}
+
+header a:hover{
+color: lightblue;
+}
+
+header a:focus{
+color: darkblue;
+}
+
+h1{
+color: #1b51a2;
+text-align: center;
+}
+
+.wrapper{
+padding:20px;
+flex:4;
+}
+
+.b{
+display:flex;
+gap:15px;
+text-align: center;
+}
+
+.event{
+background-color: white;
+border-radius:10px;
+flex:1;
+}
+
+.event h2{
+background-color: white;
+}
+
+.event p{
+background-color: white;
+}
+
+.challenge{
+background-color: white;
+border-radius:10px;
+flex:1;
+}
+
+.challenge h2{
+background-color: white;
+}
+
+.challenge p{
+background-color: white;
+}
+
+.c {
+padding:10px;
+display:flex;
+text-align:center;
+gap:10px;
+}
+
+.total{
+background-color: white;
+border-radius:15px;
+flex:1;
+}
+
+.total h2{
+background-color: white;
+}
+
+.total p{
+background-color: white;
+}
+
+.comp{
+background-color: white;
+border-radius:15px;
+flex:1;
+}
+
+.comp h2{
+background-color: white;
+}
+
+.comp p{
+background-color: white;
+}
+
+.join{
+background-color: white;
+border-radius:15px;
+flex:1;
+}
+
+.join h2{
+background-color: white;
+}
+
+.join p{
+background-color: white;
+}
+
+.d {
+padding:10px;
+text-align:left;
+background-color: white;
+border-radius:15px;
+}
+
+.d h2{
+background-color: white;
+}
+
+.d p{
+background-color: white;
+}
